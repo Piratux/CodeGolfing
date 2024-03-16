@@ -7,7 +7,7 @@ Code golf is the art of coming up with code that solves a challenge while making
 ## What can I find here?
 Over the years, I've participated in multiple code golfing challenges in One Lone Coder (OLC) discord server. So I've decided that, I would like to accumulate my and others solutions in a single place for future reference. And that place is this repository.
 
-NOTE: If you would like me to remove your submission from this repository, make an issue and I will remove it.
+NOTE: If you would like me to remove your submission from this repository, contact me or make an issue and I will remove it.
 
 ## What do you wield?
 I mainly use C language for code golf as I consider it the most fun. But I also occasionally use C++, Lua and Python.
