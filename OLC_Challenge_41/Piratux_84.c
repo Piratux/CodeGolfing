@@ -1,0 +1,1 @@
+c;main(a,b){for(b%=100u;puts(">"),scanf("%d",&c)+b-c;a++)puts(c>b?"-":"+");exit(a);}
