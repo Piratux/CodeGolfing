@@ -1,0 +1,1 @@
+s={"th ","st ","nd ","rd "}for a in io.read():gmatch"%d+"do io.write(a,s[(4>a%10 and 1~=a//10%10 and 1or 0)*a%5+1])end

@@ -1,0 +1,1 @@
+main(a){while(~scanf("%d",&a))printf("%d%.2s ",a,"thstndrd"+(a%10<4&&a/10%10-1)*a%5*2);}

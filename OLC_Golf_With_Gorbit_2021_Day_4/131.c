@@ -1,0 +1,1 @@
+char s[99],v,h;main(a){scanf("%s%d",s,&a);for(;s[v];v++)for(h=0;s[h]?s[h]:putchar(10),s[h];h++)putchar(v-h&&h-a?v-a?32:s[h]:s[v]);}
