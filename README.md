@@ -5,7 +5,7 @@ A collection of code golfing solutions.
 Code golf is the art of coming up with code that solves a challenge while making the length of code (usually counted in bytes) as small as possible.
 
 ## What can I find here?
-Over the years, I've participated in multiple code golfing challenges in One Lone Coder (OLC) discord server. So I've decided that, I would like to accumulate my and others solutions in a single place for future reference. And that place is this repository.
+Over the years, I've participated in multiple code golfing challenges in One Lone Coder (OLC) discord server. So I've decided that, I would like to accumulate my and others creative solutions in a single place for future reference. And that place is this repository.
 
 NOTE: If you would like me to remove your submission from this repository, contact me or make an issue and I will remove it.
 
