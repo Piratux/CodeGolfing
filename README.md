@@ -12,7 +12,7 @@ NOTE: I should mention, that final solutions for the challenges would usually en
 ## What do you wield?
 I mainly use C language for code golf as I consider it the most fun. But I also occasionally use C++, Lua and Python.
 
-For actively developing a golfed solution, I prefer [Godbolt](https://godbolt.org/). For sharing final solution, I mainly use [ideone](https://ideone.com/) or Godbolt.
+For actively developing a golfed solution, I prefer [Godbolt](https://godbolt.org/). For sharing final solution, I mainly use [ideone](https://ideone.com/) or Godbolt (pro tip: for sharing gcc C/C++ with solutions, add `-w` to hide warnings).
 
 For counting bytes I use [mothereff](https://mothereff.in/byte-counter).
 
