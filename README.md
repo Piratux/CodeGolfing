@@ -23,5 +23,5 @@ On the last 5 days of 2021, first ever 5-day Golf With Gorbit code golfing event
 Here is a list of websites, that I consider worthy of checking out related to code golf:
 - Exchange code golf challenges, solutions and tips:
     - https://codegolf.stackexchange.com/
-- Submit code golf solutions online in language of your choice and get feedback immediately. As a bonus, it has code golf tips for each language, leaderboards, achievements and more.
+- Submit code golf solutions online in language of your choice and get feedback immediately. As a bonus, it has code golf tips for each language, leaderboards, achievements and more:
     - https://code.golf/
