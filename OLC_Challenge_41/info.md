@@ -10,6 +10,6 @@ Show noobs what coding should be like by golfing all over the classic terminal g
 ```
 
 ## Submissions
-Piratux C 84 bytes: https://godbolt.org/z/6zMbvaqqG
+C 84 bytes: https://godbolt.org/z/6zMbvaqqG
 - x86-64 gcc 13.1
 - The guess count is displayed as program's exit code to save bytes.

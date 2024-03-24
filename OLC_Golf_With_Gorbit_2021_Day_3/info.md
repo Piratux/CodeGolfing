@@ -24,5 +24,5 @@ OOOOOOOOOOOOOOOOOOOOO
 ```
 
 ## Submissions
-Piratux C 120 bytes: https://ideone.com/P2yY62
+C 120 bytes: https://ideone.com/P2yY62
 - gcc 8.3

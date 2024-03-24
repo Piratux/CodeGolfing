@@ -17,9 +17,9 @@ Example Output:
 ```
 
 ## Submissions
-Piratux C 88 bytes: https://ideone.com/mOF3Aj
+C 88 bytes: https://ideone.com/mOF3Aj
 - clang 8.0
 - winning submission
 
-Piratux Lua 118 bytes: https://ideone.com/RlciZr
+Lua 118 bytes: https://ideone.com/RlciZr
 - luac 5.3.3

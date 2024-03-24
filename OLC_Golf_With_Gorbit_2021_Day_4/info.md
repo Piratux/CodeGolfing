@@ -23,5 +23,5 @@ Example Output:
 ```
 
 ## Submissions
-Piratux C 131 bytes: https://ideone.com/xOtWb4
+C 131 bytes: https://ideone.com/xOtWb4
 - gcc 8.3

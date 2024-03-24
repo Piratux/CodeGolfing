@@ -21,7 +21,7 @@ GGG OOO R R BBB III  T       SSS UUU CCC K K SSS     A A  T      BBB F
 ```
 
 ## Submissions
-Piratux C++ 283 bytes: https://godbolt.org/z/qEjanE74a
+C++ 283 bytes: https://godbolt.org/z/qEjanE74a
 - gcc 8.3
 - 0 semicolons
 - winning submission

@@ -40,5 +40,10 @@ Giving Away Games Gorbits
 ```
 
 ## Submissions
-Piratux C++ 230 bytes: https://ideone.com/CD7XgC
+C++ 230 bytes: https://ideone.com/CD7XgC
 - gcc 8.3
+
+C 136 bytes: https://ideone.com/BkXIeN
+- gcc 8.3
+- clever solution using macros
+- credits: Qwerasd

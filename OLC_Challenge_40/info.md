@@ -16,5 +16,5 @@ Display on stdout:
 ```
 
 ## Submissions
-Piratux C 136 bytes: https://ideone.com/r4qtaS
+C 136 bytes: https://ideone.com/r4qtaS
 - gcc 8.3
