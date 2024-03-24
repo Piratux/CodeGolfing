@@ -1,11 +1,13 @@
 # CodeGolfing
-A collection of my code golfing solutions.
+A collection of code golfing solutions.
 
 ## Code Golf?
 Code golf is the art of coming up with code that solves a challenge while making the length of code (usually counted in bytes) as small as possible.
 
 ## What can I find here?
-Over the years, I've participated in multiple code golfing challenges in One Lone Coder (OLC) discord server. So I've decided that, I would like to accumulate my solutions in a single place for future reference. And that place is this repository.
+Over the years, I've participated in multiple code golfing challenges in One Lone Coder (OLC) discord server. So I've decided that, I would like to accumulate solutions in a single place for future reference. And that place is this repository.
+
+NOTE: I should mention, that final solutions for the challenges would usually end up as a shared effort. That is, when challenges appear, people on the discord server post solutions publicly and everyone can feel free to improve upon others solutions. As a result, multiple people contribute various small optimisations that shave off few bytes at a time, until a grand collective solution is produced. Therefore, I do not claim full ownership of the solutions collected in this repository.
 
 ## What do you wield?
 I mainly use C language for code golf as I consider it the most fun. But I also occasionally use C++, Lua and Python.

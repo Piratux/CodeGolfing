@@ -1,0 +1,1 @@
+a,b,c,d,p,N,i,r,g,h,l,k;f(x,y,j){for(i=p=r=g=h=l=k=0;a>g?a=g:c>h?c=h:b<g?b=g:d<h?d=h:0,p=g-x|h-y?p:3,++i<N;l=l<0?j^=k^=j^=k,k=-k,++r-r%2:l-1)g+=j,h+=k;}main(x,y){scanf("%d",&N);f(0,1,1);for(y=c;y<=d;y++)for(x=a;x<b+2;putchar(x++-b-1?p+32:10))f(x,y,1);}

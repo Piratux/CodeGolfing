@@ -1,0 +1,1 @@
+s[9],*p=s;main(){for(;read(0,p,1);p+=(*p^24)>62?-1:printf("%ls%c",p+1,*p));}

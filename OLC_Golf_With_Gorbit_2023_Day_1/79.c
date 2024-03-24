@@ -1,0 +1,1 @@
+f(c){c=read(0,&c,1)&(c^24)>62?f()+putchar(c)-c:c;}main(){while(putchar(f(0)));}
